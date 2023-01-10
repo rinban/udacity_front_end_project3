@@ -1,6 +1,6 @@
 /* Global Variables */
 const api = "http://api.openweathermap.org/data/2.5/weather?q=";
-const key = "&appid=b3e52678917a054fb952c4c06faefbd0&units=imperial"
+const key = "&appid=b3e5267891...&units=imperial"
 
 
 // Create a new date instance dynamically with JS
